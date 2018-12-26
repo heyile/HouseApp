@@ -38,8 +38,8 @@ cse:
     server:
       thread-count: 10
   credentials:
-    accessKey: BUDCVWSAW04UZVLSZBQR
-    secretKey: BHixEctCJFbTkPUVUUjRDSeVwMAknlAy5oB7idgR
+    accessKey: AONYCAOM6ZA0WGN532SE
+    secretKey: CL6FFLnHKona7gvbEzCx7baSDcP3UbePljhg5Pdh
     akskCustomCipher: default
   handler:
     chain:

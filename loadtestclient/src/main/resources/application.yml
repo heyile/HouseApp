@@ -25,8 +25,8 @@ cse:
     client:
       serverUri: https://cse.cn-north-1.myhuaweicloud.com
   credentials:
-    accessKey: BUDCVWSAW04UZVLSZBQR
-    secretKey: BHixEctCJFbTkPUVUUjRDSeVwMAknlAy5oB7idgR
+    accessKey: AONYCAOM6ZA0WGN532SE
+    secretKey: CL6FFLnHKona7gvbEzCx7baSDcP3UbePljhg5Pdh
     akskCustomCipher: default
   rest:
     address: 0.0.0.0:8088
